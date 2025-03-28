@@ -1,0 +1,58 @@
+{
+    "LoanApplications": [
+        {
+            "ApplicationNumber": "000000-0001",
+            "LoanTerms": {
+                "Amount": "0.00",
+                "MonthlyPaymentAmount": "0.00",
+                "Term": "1"
+            },
+            "PersonalInformation": {
+                "Name": {
+                    "First": "John",
+                    "Last": "Doe"
+                },
+                "PhoneNumber": "123-456-7890",
+                "Email": "johndoe@gmail.com"
+            },
+            "DateApplied": "3/22/2025",
+            "Status": "Approved"
+        },
+        {
+            "ApplicationNumber": "000000-0002",
+            "LoanTerms": {
+                "Amount": "0.00",
+                "MonthlyPaymentAmount": "0.00",
+                "Term": "1"
+            },
+            "PersonalInformation": {
+                "Name": {
+                    "First": "Jane",
+                    "Last": "Doe"
+                },
+                "PhoneNumber": "123-456-7891",
+                "Email": "janedoe@gmail.com"
+            },
+            "DateApplied": "3/22/2025",
+            "Status": "Funded"
+        },
+        {
+            "ApplicationNumber": "000000-0003",
+            "LoanTerms": {
+                "Amount": "0.00",
+                "MonthlyPaymentAmount": "0.00",
+                "Term": "1"
+            },
+            "PersonalInformation": {
+                "Name": {
+                    "First": "Jimmy",
+                    "Last": "Doe"
+                },
+                "PhoneNumber": "123-456-7892",
+                "Email": "jimmydoe@gmail.com"
+            },
+            "DateApplied": "3/22/2025",
+            "Status": "New"
+        }
+    ]
+}
